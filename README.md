@@ -1,6 +1,9 @@
-1 Write a C program to implement cat command using general File APIs. 3
-2 Write C program to implement copy command using general File APIs. 3
-3 Write a C program to Demonstrate link(), unlink(), setjmp() and longjmp() APIs 3
+1 Write a C program to implement cat command using general File APIs. 
+
+2 Write C program to implement copy command using general File APIs. 
+
+3 Write a C program to Demonstrate link(), unlink(), setjmp() and longjmp() APIs 
+
 4 Write a shellscript to know the size of individual files, permissions, existence of link and
 file name. Display only these file attributes.
 
