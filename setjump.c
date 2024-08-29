@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <setjmp.h>
 
-static jmp_buf envBuf;
+static jmp_buf envBuf; 
 
 void second() {
     printf("Second\n");
