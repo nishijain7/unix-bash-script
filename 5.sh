@@ -9,4 +9,5 @@ if [ $? -eq 0 ]; then
 else
         echo "pattern  not found"
 fi
-~    
+~    #exit status is used
+
